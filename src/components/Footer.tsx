@@ -35,9 +35,9 @@ const Footer = () => {
           <div>
             <h4 className="text-lg font-semibold mb-4">Contact</h4>
             <ul className="space-y-2 text-gray-400">
-              <li>Email: info@octaviacarbon.com</li>
-              <li>Phone: +1 (555) 123-4567</li>
-              <li>Location: Silicon Valley, CA</li>
+              <li>Email: reis.bashaija@strathmore.edu</li>
+              <li>Phone: +254714289221</li>
+              <li>Location: Nairobi, Kenya</li>
             </ul>
           </div>
           <div>
