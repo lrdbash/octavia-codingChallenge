@@ -8,7 +8,7 @@ const About = () => {
           <div className="space-y-6">
             <h2 className="text-4xl font-bold">From Carbon Waste to Climate Value</h2>
             <p className="text-lg text-gray-300">
-              We're revolutionizing the way industries handle carbon emissions by transforming waste
+              We&apos;re revolutionizing the way industries handle carbon emissions by transforming waste
               into valuable products. Our innovative technology captures CO2 and converts it into
               sustainable materials, creating a circular economy approach to carbon management.
             </p>
